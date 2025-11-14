@@ -9,7 +9,7 @@
 <br>
 
 ### ملفات Version 2 :
-#### دي المشروع بعد ما محمد وجيه ضاف اكتيفتي ل المريض و م مي ضافتها للدكتور  : `[ User case , Sequnces before Edidting ,Activity Diagram]`
+#### دي المشروع بعد ما محمد وجيه ضاف اكتيفتي ل المريض و م مي ضافتها للدكتور  : `[ User case , Sequnces before Edidting ,Activity Diagram, state Diagram for patient]`
 <br>
 
 ##### `الملفات اللي اسمها Fluxon Project مش عارف امسحها سيبكم منها ` 
