@@ -8,8 +8,9 @@
 #### دي المشروع بعد ما محمد عماد عدل السيكونسيز : `[ User case , Sequnces  ]`
 <br>
 
-### ملفات Version 2 :
-#### دي المشروع بعد ما محمد وجيه ضاف اكتيفتي ل المريض و م مي ضافتها للدكتور  : `[ User case , Sequnces before Edidting ,Activity Diagram, state Diagram for patient]`
+### ملفات Version 2 `المشروع كامل`:
+#### دي المشروع كامل بعد ما محمد وجيه ضاف اكتيفتي ل المريض و م مي ضافتها للدكتور و منه و ملك عملوا state للمريض : `[ User case , Sequnces before Edidting ,Activity Diagram, state Diagram for patient]`
+![](Digrams.jpg)
 <br>
 
 ##### `الملفات اللي اسمها Fluxon Project مش عارف امسحها سيبكم منها ` 
