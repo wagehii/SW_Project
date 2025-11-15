@@ -5149,7 +5149,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-sequence" id="p89c71c3ab95f4f14b03d10f1c469c4c6_786430566" name="patient Sequncess" order-index="2" overview-order-index="0" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="0,1203" zoom="0.7">
+      <diagram type="uml-sequence" id="p89c71c3ab95f4f14b03d10f1c469c4c6_786430566" name="patient Sequncess" order-index="2" overview-order-index="0" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="0,1375" zoom="0.7">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -6435,7 +6435,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-sequence" id="pad03e47508b24a4282b808ffc4568f1e_124830402" name="Doctor Sequncess" order-index="3" overview-order-index="1" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="0,224" zoom="0.8">
+      <diagram type="uml-sequence" id="pad03e47508b24a4282b808ffc4568f1e_124830402" name="Doctor Sequncess" order-index="3" overview-order-index="1" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="0,848" zoom="0.8">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -6942,7 +6942,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-activity" id="pd23ccb4bd6f7412bb098fa877870f126_373033585" name="Patient Activity" order-index="4" overview-order-index="2" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-221,-315" zoom="0.3">
+      <diagram type="uml-activity" id="pd23ccb4bd6f7412bb098fa877870f126_373033585" name="Patient Activity" order-index="4" overview-order-index="2" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-133,95" zoom="0.7">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -8121,7 +8121,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-statechart" id="pddd30930d5ca4cbb968ab6c85c5cb1ed_804802310" name="Patient State" order-index="7" overview-order-index="5" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-87,-87" zoom="0.7">
+      <diagram type="uml-statechart" id="pddd30930d5ca4cbb968ab6c85c5cb1ed_804802310" name="Patient State" order-index="7" overview-order-index="5" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-495,810" zoom="0.7">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -8449,7 +8449,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-statechart" id="p7baa37dac23049119bb39ace95374185_688137560" name="PatientState" order-index="8" overview-order-index="6" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-598,-125">
+      <diagram type="uml-statechart" id="p7baa37dac23049119bb39ace95374185_688137560" name="PatientState" order-index="8" overview-order-index="6" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-1065,2215">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -8744,7 +8744,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-statechart" id="pfc4dd64fbc7842d998bce7ea9c047043_123951306" name="StateMachineDiagram3" order-index="9" overview-order-index="7" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-75,416" zoom="0.6">
+      <diagram type="uml-statechart" id="pfc4dd64fbc7842d998bce7ea9c047043_123951306" name="StateMachineDiagram3" order-index="9" overview-order-index="7" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-499,201" zoom="0.6">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -9243,7 +9243,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-activity" id="p4ad8eed92aa842c78995845b5d835b9b_214962296" name="doctor activity" order-index="10" overview-order-index="8" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-389,0" zoom="0.6">
+      <diagram type="uml-activity" id="p4ad8eed92aa842c78995845b5d835b9b_214962296" name="doctor activity" order-index="10" overview-order-index="8" uid="" name-style="" auto-routed-paths="false" default-line-style="default">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
