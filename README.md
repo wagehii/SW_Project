@@ -9,7 +9,7 @@
 <br>
 
 ### ملفات Version 2 `المشروع كامل`:
-#### دي المشروع كامل بعد ما محمد وجيه ضاف اكتيفتي ل المريض و م مي ضافتها للدكتور و منه و ملك عملوا state للمريض : `[ User case , Sequnces before Edidting ,Activity Diagram, state Diagram for patient]`
+#### دي المشروع كامل بعد ما محمد وجيه ضاف اكتيفتي ل المريض و م مي ضافتها للدكتور و منه و ملك عملوا state للمريض : `[ User case , Sequnces , Activity , state Diagram for patient]`
 ![](Digrams.jpg)
 <br>
 
