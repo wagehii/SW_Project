@@ -1,6 +1,8 @@
 ﻿<user-preferences>
   <open-windows>
-    <window type="Diagram" resource="p3734c604b5e64186a24e3f60202bf9cd_623265495" active="true" />
     <window type="Diagram" resource="pddd30930d5ca4cbb968ab6c85c5cb1ed_804802310" active="false" />
+    <window type="FolderOverview" resource="p1c5d3853eb824c699dd1f2a22ef08656_833422881" active="false" />
+    <window type="Diagram" resource="p8392c13450894263916ac6b1597e5847_527446695" active="true" />
+    <window type="Diagram" resource="p89c71c3ab95f4f14b03d10f1c469c4c6_786430566" active="false" />
   </open-windows>
 </user-preferences>
