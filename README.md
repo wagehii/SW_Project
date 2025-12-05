@@ -13,6 +13,9 @@
 `[ User case , Sequnces , Activity , state Diagram for patient]`
 ![](Digrams.jpg)
 <br>
+# دا لينك بيزنيس موديل :
+https://www.canva.com/design/DAG6k_Ryn6w/Y_XBE2xokGd_pz3VdhXdYA/view?utm_content=DAG6k_Ryn6w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47dfe91b44
+
 ### ملفات Version 3 :    
 `[ User case , Sequnces , Activity , state Diagram  , Class Digram]`
 
